@@ -1,7 +1,7 @@
 package Tasks;
 import org.apache.commons.lang3.StringUtils;
 
-public class isPolindromeF {
+public class PolindromeF {
 
 	   public static boolean isPalindrome(String str){// является ли слово полиндромом - логические операции
 	        boolean result;
